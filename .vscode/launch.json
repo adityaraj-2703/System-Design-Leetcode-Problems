@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StockPrice",
+            "request": "launch",
+            "mainClass": "design.StockPrice",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstringWithAtLeastKRepChars",
+            "request": "launch",
+            "mainClass": "slidingwindow.LongestSubstringWithAtLeastKRepChars",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDecodedNumbers",
+            "request": "launch",
+            "mainClass": "exponentiation.SumOfDecodedNumbers",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "CinemaSeatAllocation",
+            "request": "launch",
+            "mainClass": "searching.CinemaSeatAllocation",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "design.pizzaPrototype.Client",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "design.observer.Client",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "design.alexadevice.Client",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
+            "name": "StudentModified4",
+            "request": "launch",
+            "mainClass": "design.builderpattern.finalsolution.StudentModified4",
+            "projectName": "System-Design-Leetcode-Problems_9b5626e8"
+        },
+        {
+            "type": "java",
             "name": "SnakesAndLadders",
             "request": "launch",
             "mainClass": "graph.SnakesAndLadders",

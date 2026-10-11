@@ -6,7 +6,8 @@ public enum ParameterValues {
     EMAIL("email"),
     PHONE("phone"),
     PASS("pass"),
-    AGE("age");
+    AGE("age"),
+    LICENSE("license");
     private final String val;
     ParameterValues(String val){
         this.val = val;

@@ -9,6 +9,7 @@ public class StudentModified1 {
     String pass;
     String address;
     int age;
+    String license;
     StudentModified1(Map<ParameterValues,Object> m){
         this.name = (String)m.get(ParameterValues.NAME);
         this.age = (int)m.get(ParameterValues.AGE);
@@ -16,5 +17,6 @@ public class StudentModified1 {
         this.address = (String)m.get(ParameterValues.ADDRESS);
         this.phone = (String)m.get(ParameterValues.PHONE);
         this.pass = (String)m.get(ParameterValues.PASS);
+        this.license = (String)m.get(ParameterValues.LICENSE);
     }
 }
